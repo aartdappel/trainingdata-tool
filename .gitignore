@@ -40,3 +40,13 @@ build/
 *.filters
 
 cmake_install\.cmake
+
+\.idea/
+
+CMakeCache\.txt
+
+Makefile
+
+trainingdata-tool
+
+Project\.cbp
